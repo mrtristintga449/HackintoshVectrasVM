@@ -37,6 +37,8 @@ Change "/storage/emulated/0/yourpathto/OVMF/OVMF_VARS.fd" To Your Path To The OV
 
 Change "/storage/emulated/0/yourpathto/macosinstaller.iso" To Your Path To The MacOS Installer ISO Image
 
+Change "-device isa-applesmc,osk=ourhardworkbythesewordsguardedpleasedontsteal\(c\)AppleComputerInc" To "\(c\)" Since QEMU Wont Run (c)
+
 Save The Changes
 
 Tap On The VM
