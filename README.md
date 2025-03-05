@@ -37,7 +37,9 @@ Change "/storage/emulated/0/yourpathto/OVMF/OVMF_VARS.fd" To Your Path To The OV
 
 Change "/storage/emulated/0/yourpathto/macosinstaller.iso" To Your Path To The MacOS Installer ISO Image
 
-Change "-device isa-applesmc,osk=ourhardworkbythesewordsguardedpleasedontsteal\(c\)AppleComputerInc" by add \. to the left beside the 1st parantheses key. and the \. to the left beside the 2nd parenthese key.
+Change "-device isa-applesmc,osk=ourhardworkbythesewordsguardedpleasedontsteal\(c\)AppleComputerInc" by add backslash key to the left beside the 1st parantheses key. and the bacslash to the left beside the 2nd parenthese key.
+
+or if you want, here is a txt file here: https://www.mediafire.com/file/mlzsj9zn5lhu8vd/newfile.txt+(1)/file
 
 Save The Changes
 
