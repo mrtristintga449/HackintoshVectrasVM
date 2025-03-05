@@ -37,7 +37,7 @@ Change "/storage/emulated/0/yourpathto/OVMF/OVMF_VARS.fd" To Your Path To The OV
 
 Change "/storage/emulated/0/yourpathto/macosinstaller.iso" To Your Path To The MacOS Installer ISO Image
 
-Change "-device isa-applesmc,osk=ourhardworkbythesewordsguardedpleasedontsteal\(c\)AppleComputerInc" To "(c)" And Then Escape The Parentheses add  |\| |(| and |\| |()| (the ) key| Since QEMU Wont Run (c)
+Change "-device isa-applesmc,osk=ourhardworkbythesewordsguardedpleasedontsteal\(c\)AppleComputerInc" by add \. to the left beside the 1st parantheses key. and the \. to the left beside the 2nd parenthese key.
 
 Save The Changes
 
